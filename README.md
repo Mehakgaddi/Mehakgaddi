@@ -1,4 +1,3 @@
-![logo](https://github.com/Mehakgaddi/Mehakgaddi/blob/main/github%20banner.png)
 
 
 <h1 align="center">Hi 👋, I'm Mehak</h1>

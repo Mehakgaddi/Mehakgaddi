@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Backend and DSA in Java**
 
-- 💬 Ask me about **Frontend, Backend, DSA**
+- 💬 Ask me about **Frontend, Backend, DataBase, DSA**
 
 - 📫 How to reach me **mehakgaddi867@gmail.com**
 
